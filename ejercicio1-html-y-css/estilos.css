@@ -1,0 +1,15 @@
+h1 {
+color:#006600;
+text-align:center;
+background:blanchedalmond;
+padding:20px
+}
+
+.encabezado {
+    color:#003300
+}
+
+body {
+    background: url "salad.png";
+    background-size: cover;
+}
